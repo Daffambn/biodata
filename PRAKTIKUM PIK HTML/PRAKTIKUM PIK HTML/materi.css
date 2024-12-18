@@ -1,0 +1,24 @@
+body{
+    background: #0A97B0;
+}
+
+.word{
+    color: rgb(255, 255, 255);
+    text-align:center;
+}
+
+.PPT{
+    color: rgb(255, 255, 255);
+    text-align:center;
+}
+
+
+.Excel{
+    color: rgb(255, 255, 255);
+    text-align:center;
+}
+table{
+    width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
